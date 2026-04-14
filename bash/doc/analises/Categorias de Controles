@@ -1,1 +1,120 @@
-
+Categorias de Controles
+Categorias de controles
+Os controles dentro da cibersegurança são agrupados em três categorias principais:
+● Controles Administrativos/Gerenciais
+● Controles Técnicos
+● Controles Físicos/Operacionais
+Controles Administrativos/Gerenciais
+Os controles administrativos/gerenciais tratam do componente humano da
+cibersegurança. Esses controles incluem políticas e procedimentos que definem como
+uma organização gerencia dados e estabelecem claramente as responsabilidades dos
+funcionários, incluindo seu papel na proteção da organização. Embora esses controles
+sejam normalmente baseados em políticas, sua aplicação pode exigir o uso de
+controles técnicos ou físicos.
+Controles Técnicos
+Os controles técnicos consistem em soluções como firewalls, sistemas de detecção de
+intrusão (IDS), sistemas de prevenção de intrusão (IPS), antivírus (AV), criptografia etc.
+Esses controles podem ser utilizados de diversas maneiras para atender aos objetivos
+organizacionais.
+Controles Físicos/Operacionais
+Os controles físicos/operacionais incluem fechaduras de portas, fechaduras de
+armários, câmeras de vigilância, leitores de crachá etc. Eles são usados para limitar o
+acesso físico a ativos por pessoal não autorizado.
+Tipos de controles
+Os tipos de controles incluem, entre outros:
+● Preventivo
+● Corretivo
+● Detectivo
+● Dissuasório
+Esses controles trabalham em conjunto para fornecer defesa em profundidade e
+proteger ativos.
+● Controles preventivos são projetados para impedir que um incidente ocorra.
+● Controles corretivos são usados para restaurar um ativo após um incidente.
+● Controles detectivos são implementados para determinar se um incidente
+ocorreu ou está em andamento.
+● Controles dissuasórios são projetados para desencorajar ataques.
+Controles Administrativos/Gerenciais
+Nome do
+Controle
+Tipo de
+Controle
+Finalidade
+Privilégio mínimo Preventivo Reduzir o risco e o impacto geral de ameaças
+internas maliciosas ou contas comprometidas
+Planos de
+recuperação de
+desastres
+Corretivo Garantir continuidade dos negócios
+Políticas de senha Preventivo Reduzir a probabilidade de comprometimento de
+contas por ataques de força bruta ou dicionário
+Políticas de
+controle de acesso
+Preventivo Reforçar confidencialidade e integridade
+definindo quais grupos podem acessar ou
+modificar dados
+Políticas de
+gerenciamento de
+contas
+Preventivo Gerenciar o ciclo de vida das contas, reduzir
+superfície de ataque e limitar impacto de
+ex-funcionários insatisfeitos e uso de contas
+padrão
+Segregação de
+funções
+Preventivo Reduzir risco e impacto geral de ameaças
+internas maliciosas ou contas comprometidas
+Controles Técnicos
+Nome do Controle Tipo de
+Controle
+Finalidade
+Firewall Preventivo Filtrar tráfego indesejado ou malicioso
+antes que entre na rede
+IDS/IPS Detectivo Detectar e prevenir tráfego anômalo que
+corresponda a assinaturas ou regras
+Criptografia Dissuasório Garantir confidencialidade de
+informações sensíveis
+Backups Corretivo Restaurar/recuperar após um evento
+Gerenciamento de senhas Preventivo Reduzir fadiga de senhas
+Software antivírus (AV) Preventivo Detectar e colocar em quarentena
+ameaças conhecidas
+Monitoramento,
+manutenção e intervenção
+manual
+Preventivo Identificar e gerenciar ameaças, riscos
+ou vulnerabilidades em sistemas
+desatualizados
+Controles Físicos/Operacionais
+Nome do Controle Tipo de Controle Finalidade
+Cofre com temporizador Dissuasório Reduzir superfície de ataque e
+impacto de ameaças físicas
+Iluminação adequada Dissuasório Desencorajar ameaças eliminando
+locais de esconderijo
+Circuito fechado de TV
+(CCTV)
+Preventivo/Detectiv
+o
+Atua como preventivo e detectivo:
+reduz risco de eventos e auxilia na
+análise após incidentes
+Armários trancados
+(equipamentos de rede)
+Preventivo Reforçar integridade impedindo
+acesso físico não autorizado à
+infraestrutura
+Sinalização indicando
+empresa de alarme
+Dissuasório Desencorajar ameaças ao reduzir
+percepção de sucesso do ataque
+Fechaduras Dissuasório/Preventi
+vo
+Reforçar integridade impedindo
+acesso físico não autorizado aos
+ativos
+Detecção e prevenção
+de incêndio (alarme,
+sprinklers etc.)
+Detectivo/Preventiv
+o
+Detectar incêndio e prevenir
+danos a ativos físicos como
+inventário e servidores
